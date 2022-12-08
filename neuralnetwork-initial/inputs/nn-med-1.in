@@ -1,0 +1,23 @@
+// The program input for neuralnetwork-initial/src/main.leo
+[main]
+x0: u32 = 50;
+x1: u32 = 100;
+w00: u32 = 100;
+w01: u32 = 100;
+
+w100: u32 = 150;
+w101: u32 = 50;
+w110: u32 = 0;
+w111: u32 = 50;
+
+w20: u32 = 100;
+w21: u32 = 100;
+
+b00: u32 = 0;
+b01: u32 = 0;
+b10: u32 = 50;
+b11: u32 = 150;
+
+b2: u32 = 25;
+[registers]
+r0: u32 = 0;
