@@ -1,0 +1,8 @@
+[project]
+name = "project"
+version = "0.1.0"
+description = "The project package"
+license = "MIT"
+
+[remote]
+author = "[AUTHOR]" # Add your Aleo Package Manager username or team name.
